@@ -1,0 +1,19 @@
+{
+  "name": "1111",
+  "version": "1.0.0",
+  "description": "In this week’s lab you will be setting up _git, creating branches and solving a merge conflict_.\r # install instruction\r 1. First item\r 2. Second item\r 3. Third item\r 4. Fourth item\r # run instruction\r 1. First step\r 2. Second step\r 3. Third step\r 4. Fourth step\r # table of week course and course content\r | Weeks        | Description           | Learning Outcome |\r | ------------- |-------------| -----|\r | 1    | Intro | 1,5 |\r | 2      | Git      |   2 |\r | 3 | NodeJS (Server)    |    2,3 |\r | 4    | Angular | 3 |\r | 5      | Request to server      |   3 |\r | 6 | Sockets      |    3 |\r | 7    | NoSQL data storage| 2 |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuanhaoLi666/1111.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XuanhaoLi666/1111/issues"
+  },
+  "homepage": "https://github.com/XuanhaoLi666/1111#readme"
+}
